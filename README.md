@@ -16,3 +16,11 @@ A comprehensive Bash script to manage your GitHub repositories with ease. This s
 ```bash
 git clone https://github.com/yourusername/github-repo-manager.git
 cd github-repo-manager
+
+##Make the Script Executable
+
+```bash
+chmod +x manage_repos.sh
+./manage_repos.sh
+
+
