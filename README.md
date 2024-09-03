@@ -17,3 +17,4 @@ A comprehensive Bash script to manage your GitHub repositories with ease. This s
 git clone https://github.com/yourusername/github-repo-manager.git
 cd github-repo-manager
 
+## Usage
