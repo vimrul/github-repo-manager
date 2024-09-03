@@ -1,4 +1,4 @@
-kk# GitHub Repo Manager
+# GitHub Repo Manager
 
 A comprehensive Bash script to manage your GitHub repositories with ease. This script allows you to clone or pull all repositories from a GitHub organization or user, authenticate using a GitHub token, and optionally update remote URLs for seamless authenticated operations.
 
